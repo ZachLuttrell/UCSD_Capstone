@@ -1,6 +1,6 @@
-# UCSD_Capstone
+# UCSD_Capstone - Semantic Segmentation for Building Footprint Extraction
 
-![example_output_2](https://github.com/user-attachments/assets/a9df7433-8d92-4253-8f3c-ccbd4116bf03)
+![example_output_2](https://github.com/user-attachments/assets/3f22cfac-4646-4512-a5f5-2c1252c10790)
 
 This repository contains the various collections of work that make up the entire deployment process of this project:
 - Project Submission Steps
@@ -16,3 +16,5 @@ Deployment Application Repository is hosted at: https://github.com/ZachLuttrell/
 Original, un-processed dataset can be found through the SpaceNet 7 Challenge Website: [Website](https://spacenet.ai/sn7-challenge/)
 
 My cleaned and pre-processed version of the dataset used for model training can be accessed here: [Drive Link](https://drive.google.com/drive/folders/1CppX4y9O3mS50kLT5zYhjTRMclhXwufr?usp=sharing)
+
+## Summary
