@@ -2,7 +2,7 @@
 
 This repository contains the various collections of work that make up the entire deployment process of this project:
 - Project Submission Steps
-- Training & Evaluation Notebooks
+- Model Training & Evaluation Notebooks
 - Data Cleaning & Processing
 - Trained Models
 
