@@ -1,4 +1,4 @@
-# UCSD_Capstone - Semantic Segmentation for Building Footprint Extraction
+# UCSD Capstone - Semantic Segmentation for Building Footprint Extraction
 
 ![example_output_2](https://github.com/user-attachments/assets/3f22cfac-4646-4512-a5f5-2c1252c10790)
 
