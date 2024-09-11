@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This repository contains various collections of work that make up the development and deployment process of my capstone project: building footprint extraction from satellite imagery using semantic segmentation. The project explores the use of deep learning to extract meaningful building footprint data from freely available satellite imagery, contributing to urban planning, humanitarian efforts, and the nonprofit sector.
+This repository contains various collections of work that make up the development and deployment process of my capstone project: building footprint extraction from satellite imagery using semantic segmentation. The project explores the use of deep learning to extract meaningful building footprint data from freely available, Sentinel 2 satellite imagery, in an attempt to contribute to urban planning, humanitarian efforts, and the nonprofit sector.
 
 To see the finalized application in action, visit the deployed version here: [Building Footprint Extraction App](https://building-footprint-extraction.streamlit.app/).
 
@@ -14,9 +14,9 @@ The deployment repository is hosted at: [Deployment Repo](https://github.com/Zac
 
 ## Summary
 
-This project was designed with accessibility and cost-efficiency in mind. The semantic segmentation model was built using freely available Sentinel-2 imagery to ensure that a wide range of sectors, including humanitarian aid, non-profits, and NGOs, could utilize the system without incurring prohibitive costs. 
+This project was designed with accessibility and cost-efficiency in mind. The semantic segmentation model was initially built through altering the SpaceNet 7 Challenge dataset to fit the resolution for this use case.  Later, this was augmented with freely available Sentinel-2 imagery to ensure that this model generalized better to varying density and terrain scenarios.
 
-The system leverages a UNet-based deep learning model to automatically extract building footprints from satellite images, and the deployment is hosted using no-cost cloud services. While the current deployment meets the project's goals, the architecture is designed to be scalable for future demands, such as higher resolution imagery or additional features like regular retraining pipelines.
+The system leverages a UNet-based deep learning model to automatically extract building footprints from satellite images, and the deployment is hosted using no-cost cloud services. While the current deployment meets the project's goals, the architecture is designed to be scalable for future demands, such as higher resolution imagery or additional features.
 
 ---
 
@@ -45,8 +45,8 @@ This repository is organized into several key directories:
 ## Data Sources
 
 - **Original Dataset**: The original, unprocessed dataset can be found through the [SpaceNet 7 Challenge](https://spacenet.ai/sn7-challenge/).
-- **Preprocessed Dataset**: My cleaned and preprocessed version of the dataset, which was used for model training, can be accessed here: [Google Drive Link](https://drive.google.com/drive/folders/1CppX4y9O3mS50kLT5zYhjTRMclhXwufr?usp=sharing).
+- **Preprocessed Dataset**: My cleaned and pre-processed version of the dataset, which was used for model training, can be accessed here: [Google Drive Link](https://drive.google.com/drive/folders/1CppX4y9O3mS50kLT5zYhjTRMclhXwufr?usp=sharing).
 
 ---
 
-For more details, refer to the deployment documentation in the deployment repository: [Deployment Repository](https://github.com/ZachLuttrell/building_footprint_extraction).
+For more details on implementation, refer to the documentation in the deployment repository: [Deployment Repository](https://github.com/ZachLuttrell/building_footprint_extraction).
