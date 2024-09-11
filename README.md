@@ -1,5 +1,7 @@
 # UCSD_Capstone
 
+![example_output_2](https://github.com/user-attachments/assets/a9df7433-8d92-4253-8f3c-ccbd4116bf03)
+
 This repository contains the various collections of work that make up the entire deployment process of this project:
 - Project Submission Steps
 - Model Training & Evaluation Notebooks
