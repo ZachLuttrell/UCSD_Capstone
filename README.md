@@ -49,4 +49,4 @@ This repository is organized into several key directories:
 
 ---
 
-For more details on implementation, refer to the documentation in the deployment repository: [Deployment Repository](https://github.com/ZachLuttrell/building_footprint_extraction).
+For more specific details on implementation, refer to the documentation in the deployment repository: [Deployment Repository](https://github.com/ZachLuttrell/building_footprint_extraction).
