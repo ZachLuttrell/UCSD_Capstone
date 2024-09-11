@@ -12,4 +12,5 @@ Application Repository is hosted at: https://github.com/ZachLuttrell/building_fo
 
 ## Data Sources:
 Original, un-processed dataset can be found through the SpaceNet 7 Challenge Website: [Website](https://spacenet.ai/sn7-challenge/)
+
 My cleaned and pre-processed version of the dataset used for model training can be accessed here: [Drive Link](https://drive.google.com/drive/folders/1CppX4y9O3mS50kLT5zYhjTRMclhXwufr?usp=sharing)
