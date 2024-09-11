@@ -2,7 +2,7 @@
 
 ![example_output_2](https://github.com/user-attachments/assets/3f22cfac-4646-4512-a5f5-2c1252c10790)
 
-This repository contains the various collections of work that make up the entire deployment process of this project:
+This repository contains the various collections of work that make up the entire development and deployment process of this project:
 - Project Submission Steps
 - Model Training & Evaluation Notebooks
 - Data Cleaning & Processing
