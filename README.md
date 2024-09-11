@@ -14,7 +14,7 @@ The deployment repository is hosted at: [Deployment Repo](https://github.com/Zac
 
 ## Summary
 
-This project was designed with accessibility and cost-efficiency in mind. The semantic segmentation model was initially built through altering the SpaceNet 7 Challenge dataset to fit the resolution for this use case.  Later, this was augmented with freely available Sentinel-2 imagery to ensure that this model generalized better to varying density and terrain scenarios.
+This project was designed with accessibility and cost-efficiency in mind. The semantic segmentation model was initially built through altering the SpaceNet 7 Challenge dataset to fit the spatial resolution necessary for this use case.
 
 The system leverages a UNet-based deep learning model to automatically extract building footprints from satellite images, and the deployment is hosted using no-cost cloud services. While the current deployment meets the project's goals, the architecture is designed to be scalable for future demands, such as higher resolution imagery or additional features.
 
